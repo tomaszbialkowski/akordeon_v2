@@ -70,10 +70,10 @@ body {
 
 /* OPEN STATE */
 .open {
-  border-top: 4px solid #087f5b;
+  border-top: 4px solid #23c55b;
 }
 
 .open .number,
 .open .title {
-  color: #087f5b;
+  color: #23c55b;
 }
